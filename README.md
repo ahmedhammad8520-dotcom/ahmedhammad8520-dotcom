@@ -19,7 +19,7 @@
 
 🎯 I'm an **Aspiring Software Engineer** passionate about building clean, efficient, and scalable code.
 
-💡 Currently learning **C++**, **Python**, **C#**, **Data Structures**, **Algorithms**, and **Object-Oriented Programming**.  
+💡 Currently learning **C++**, **Python**, **C#**, **JavaScript**, **React**, **HTML**, **CSS**, **Data Structures**, **Algorithms**, and **Object-Oriented Programming**.  
 Exploring **Git/GitHub** and backend fundamentals to prepare for real-world development and freelance opportunities.
 
 🌍 Based in Egypt 🇪🇬, always curious to learn more about programming, software engineering, and tech innovations.
@@ -34,11 +34,15 @@ Exploring **Git/GitHub** and backend fundamentals to prepare for real-world deve
 
 ## 🚀 Tech Stack
 
-### Languages:
+### Languages & Frameworks:
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
 </p>
 
 ### Tools:
@@ -46,7 +50,6 @@ Exploring **Git/GitHub** and backend fundamentals to prepare for real-world deve
   <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-00A67E?logo=openai&logoColor=white" />
 </p>
 
 ---
@@ -66,3 +69,4 @@ Exploring **Git/GitHub** and backend fundamentals to prepare for real-world deve
 <a href="https://www.facebook.com/share/1DUL6gJHDo/" target="_blank"> <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/> </a>
 
 > “Keep pushing forward. Every line of code brings you closer to mastery.” 💪
+
