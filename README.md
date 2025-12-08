@@ -15,6 +15,13 @@
 ---
 
 ## 🧑‍💻 About Me
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedhammad8520&show_icons=true&theme=react" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhammad8520&layout=compact&theme=react" height="150"/>
+</p>
+
 👤 Name: Ahmed Hammad
 
 🎯 I'm an **Aspiring Software Engineer** passionate about building clean, efficient, and scalable code.
